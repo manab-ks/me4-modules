@@ -1,0 +1,63 @@
+\pagestyle{empty}
+
+\begin{tikzpicture}[remember picture,overlay]
+%%%%%%%%%%%%%%%%%%%% Background %%%%%%%%%%%%%%%%%%%%%%%%
+\fill[doc] (current page.south west) rectangle (current page.north east);
+
+
+%%%%%%%%%%%%%%%%%%%% Background Polygon %%%%%%%%%%%%%%%%%%%%
+
+\foreach \i in {0.5,...,23}
+{
+    \node[rounded corners,doc!60,draw,regular polygon,regular polygon sides=6, minimum size=\i cm,ultra thick] at ($(current page.west)+(2.6,-6)$) {} ;
+}
+
+\foreach \i in {0.6,...,23}
+{
+\node[rounded corners,doc!60,draw,regular polygon,regular polygon sides=6, minimum size=\i cm,ultra thick] at ($(current page.north west)+(2.6,0)$) {} ;
+}
+
+\foreach \i in {0.6,...,23}
+{
+\node[rounded corners,doc!90,draw,regular polygon,regular polygon sides=6, minimum size=\i cm,ultra thick] at ($(current page.north east)+(0,-9.6)$) {} ;
+}
+
+
+\foreach \i in {21,...,5}
+{
+\node[doc!85,rounded corners,draw,regular polygon,regular polygon sides=6, minimum size=\i cm,ultra thick] at ($(current page.south east)+(-0.2,-1)$) {} ;
+}
+
+
+%%%%%%%%%%%%%%%%%%%% Title %%%%%%%%%%%%%%%%%%%% 
+\node[left,black,minimum width=0.625*\paperwidth,minimum height=3cm, rounded corners] at ($(current page.north east)+(-4.25,-9.5)$)
+{
+\parbox{0.65\paperwidth}{
+\begin{flushright}
+{\huge \color{white} \textbf{Future Clean Transport Technology}}
+\end{flushright}
+}
+};
+
+%%%%%%%%%%%%%%%%%%%% Subtitle %%%%%%%%%%%%%%%%%%%% 
+\node[left,black,minimum width=0.625*\paperwidth,minimum height=2cm, rounded corners] at ($(current page.north east)+(-4.25,-11)$)
+{
+\parbox{0.65\paperwidth}{
+\begin{flushright}
+{\huge \color{white} \textbf{MECH70003}}
+\end{flushright}
+}
+};
+
+%%%%%%%%%%%%%%%%%%%% Author Name %%%%%%%%%%%%%%%%%%%% 
+\node[left,black,minimum width=0.625*\paperwidth,minimum height=2cm, rounded corners] at ($(current page.north east)+(-4.25,-12.5)$)
+{
+\parbox{0.65\paperwidth}{
+\begin{flushright}
+{\Large \color{white} \textbf{Manab Shrestha}}
+\end{flushright}
+}
+};
+
+\end{tikzpicture}
+
