@@ -746,7 +746,7 @@
 \usepackage{titletoc}
 \contentsmargin{0cm}
 \titlecontents{chapter}[3.7pc]
-{\addvspace{30pt}%
+{\addvspace{25pt}%
 	\begin{tikzpicture}[remember picture, overlay]%
 		\draw[fill=doc!100,draw=doc!100] (-7,-.1) rectangle (-0.4,.5);%
 		\pgftext[left,x=-3.5cm,y=0.2cm]{\color{white}\Large\sc\bfseries Chapter\ \thecontentslabel};%
@@ -763,12 +763,12 @@
 {}
 {\hfill\small \thecontentspage}
 []
-\titlecontents*{subsection}[3.7pc]
+\titlecontents*{subsection}[6.2pc]
 {\addvspace{-1pt}\small}
+{\contentslabel[\thecontentslabel]{2.5pc}}
 {}
-{}
-{\ --- \small\thecontentspage}
-[ \textbullet\ ][]
+{\hfill\small\thecontentspage}
+[\newline]
 
 \makeatletter
 \renewcommand{\tableofcontents}{%

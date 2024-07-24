@@ -767,12 +767,12 @@
 {}
 {\hfill\small \thecontentspage}
 []
-\titlecontents*{subsection}[3.7pc]
+\titlecontents*{subsection}[6.2pc]
 {\addvspace{-1pt}\small}
+{\contentslabel[\thecontentslabel]{2.5pc}}
 {}
-{}
-{\ --- \small\thecontentspage}
-[ \textbullet\ ][]
+{\hfill\small\thecontentspage}
+[\newline]
 
 \makeatletter
 \renewcommand{\tableofcontents}{%
@@ -786,4 +786,3 @@
 	  \end{tikzpicture}}%
 	\@starttoc{toc}}
 \makeatother
-
