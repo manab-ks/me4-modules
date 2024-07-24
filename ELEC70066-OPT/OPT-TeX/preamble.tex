@@ -60,6 +60,14 @@
 %\usepackage{pdfpages}
 %\usepackage{transparent}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SELF MADE COLORS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\renewcommand{\chaptername}{Part}
+\patchcmd{\@makechapterhead}{\@chapapp}{Part}{}{}
+\makeatother
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SELF MADE COLORS
@@ -88,7 +96,6 @@
 \definecolor{myyellow}{RGB}{169,121,69}
 \definecolor{myexercisebg}{HTML}{F2FBF8}
 \definecolor{myexercisefg}{HTML}{88D6D1}
-\definecolor{lred}{HTML}{ffac00}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -753,7 +760,7 @@
 {\addvspace{30pt}%
 	\begin{tikzpicture}[remember picture, overlay]%
 		\draw[fill=doc!100,draw=doc!100] (-7,-.1) rectangle (-0.4,.5);%
-		\pgftext[left,x=-3.5cm,y=0.2cm]{\color{white}\Large\sc\bfseries Chapter\ \thecontentslabel};%
+		\pgftext[left,x=-3.5cm,y=0.2cm]{\color{white}\Large\sc\bfseries Part\ \thecontentslabel};%
 	\end{tikzpicture}\color{doc!100}\large\sc\bfseries}%
 {}
 {}
