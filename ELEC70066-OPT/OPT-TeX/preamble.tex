@@ -64,11 +64,6 @@
 % SELF MADE COLORS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\makeatletter
-\renewcommand{\chaptername}{Part}
-\patchcmd{\@makechapterhead}{\@chapapp}{Part}{}{}
-\makeatother
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SELF MADE COLORS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -760,7 +755,7 @@
 {\addvspace{30pt}%
 	\begin{tikzpicture}[remember picture, overlay]%
 		\draw[fill=doc!100,draw=doc!100] (-7,-.1) rectangle (-0.4,.5);%
-		\pgftext[left,x=-3.5cm,y=0.2cm]{\color{white}\Large\sc\bfseries Part\ \thecontentslabel};%
+		\pgftext[left,x=-3.5cm,y=0.2cm]{\color{white}\Large\sc\bfseries Chapter\ \thecontentslabel};%
 	\end{tikzpicture}\color{doc!100}\large\sc\bfseries}%
 {}
 {}
