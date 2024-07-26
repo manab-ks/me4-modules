@@ -31,6 +31,7 @@
 \usepackage{comment} % enables the use of multi-line comments (\ifx \fi) 
 \usepackage{import}
 \usepackage{xifthen}
+\usepackage{xcolor}
 \usepackage{pdfpages}
 \usepackage{transparent}
 %title page
@@ -40,7 +41,11 @@
 \usetikzlibrary{calc}
 \usepackage{anyfontsize}
 
+\usepackage[sc,osf]{mathpazo}   % With old-style figures and real smallcaps.
+\usepackage[euler-digits,small]{eulervm}
+\usepackage{fancyhdr}
 
+\linespread{1.025}    
 
 \newcommand\mycommfont[1]{\footnotesize\ttfamily\textcolor{blue}{#1}}
 \SetCommentSty{mycommfont}
@@ -53,12 +58,21 @@
 \renewcommand\qedsymbol{$\Laughey$}
 
 
-\setcounter{page}{0}
+\renewcommand{\sectionmark}[1]{\uppercase{\markright{#1}}}
+
 
 %\usepackage{import}
 %\usepackage{xifthen}
 %\usepackage{pdfpages}
 %\usepackage{transparent}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Header
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -66,14 +80,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \makeatletter
-\renewcommand{\chaptername}{Part}
-\patchcmd{\@makechapterhead}{\@chapapp}{Part}{}{}
-\makeatother
 
 
 \definecolor{myg}{RGB}{56, 140, 70}
 \definecolor{myb}{RGB}{45, 111, 177}
 \definecolor{myr}{RGB}{199, 68, 64}
+\definecolor{white}{HTML}{FFFFFF}
 \definecolor{mytheorembg}{HTML}{F2F2F9}
 \definecolor{mytheoremfr}{HTML}{00007B}
 \definecolor{mylenmabg}{HTML}{FFFAF8}
@@ -92,7 +104,6 @@
 \definecolor{myyellow}{RGB}{169,121,69}
 \definecolor{myexercisebg}{HTML}{F2FBF8}
 \definecolor{myexercisefg}{HTML}{88D6D1}
-\definecolor{lred}{HTML}{ffac00}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -750,14 +761,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage{tikz}
-\definecolor{doc}{HTML}{C00000}
+\definecolor{doc}{HTML}{111111}%2E86C1
 \usepackage{titletoc}
 \contentsmargin{0cm}
 \titlecontents{chapter}[3.7pc]
-{\addvspace{30pt}%
+{\addvspace{20pt}%
 	\begin{tikzpicture}[remember picture, overlay]%
 		\draw[fill=doc!100,draw=doc!100] (-7,-.1) rectangle (-0.4,.5);%
-		\pgftext[left,x=-3.5cm,y=0.2cm]{\color{white}\Large\sc\bfseries Part\ \thecontentslabel};%
+		\pgftext[left,x=-3.5cm,y=0.2cm]{\color{white}\Large\sc\bfseries Chapter\ \thecontentslabel};%
 	\end{tikzpicture}\color{doc!100}\large\sc\bfseries}%
 {}
 {}
@@ -784,9 +795,11 @@
 	  \vspace*{-20\p@}%
 	  \begin{tikzpicture}[remember picture, overlay]%
 		  \pgftext[right,x=15cm,y=0.2cm]{\color{doc!100}\Huge\sc\bfseries \contentsname};%
-		  \draw[fill=doc!100,draw=doc!100] (13,-.75) rectangle (20,1);%
+		  \draw[fill=doc!100,draw=doc!100] (13.05,-.75) rectangle (20,1);%
 		  \clip (13,-.75) rectangle (20,1);
 		  \pgftext[right,x=15cm,y=0.2cm]{\color{white}\Huge\sc\bfseries \contentsname};%
 	  \end{tikzpicture}}%
 	\@starttoc{toc}}
 \makeatother
+
+

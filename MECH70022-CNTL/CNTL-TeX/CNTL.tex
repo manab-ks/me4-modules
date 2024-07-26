@@ -1,19 +1,23 @@
-\documentclass{report}
-
-\input{preamble}
-\input{macros}
-\input{letterfonts}
+\documentclass[10pt,a4paper,twoside]{report}
+\input{../../common/preamble.tex}
+\input{../../common/macros.tex}
+\input{../../common/letterfonts.tex}
 
 
 \begin{document}
-\include{cover}
 
-
+\coverpage{MECH7022}{Advanced Control}
+\frontmatter
 \newpage% or \cleardoublepage
 % \pdfbookmark[<level>]{<title>}{<dest>}
 \pdfbookmark[section]{\contentsname}{toc}
 \tableofcontents
+
+
 \pagebreak
+\newpage
+\mainmatter
+
 
 \include{chapters/1}
 
@@ -22,5 +26,7 @@
 \include{chapters/3}
 
 
-\include{chapters/repo}
+\include{Non Examinable Material}
 \end{document}
+
+

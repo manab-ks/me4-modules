@@ -31,6 +31,7 @@
 \usepackage{comment} % enables the use of multi-line comments (\ifx \fi) 
 \usepackage{import}
 \usepackage{xifthen}
+\usepackage{xcolor}
 \usepackage{pdfpages}
 \usepackage{transparent}
 %title page
@@ -39,6 +40,12 @@
 \usetikzlibrary{ shapes.geometric }
 \usetikzlibrary{calc}
 \usepackage{anyfontsize}
+
+\usepackage[sc,osf]{mathpazo}   % With old-style figures and real smallcaps.
+\usepackage[euler-digits,small]{eulervm}
+\usepackage{fancyhdr}
+
+\linespread{1.025}    
 
 \newcommand\mycommfont[1]{\footnotesize\ttfamily\textcolor{blue}{#1}}
 \SetCommentSty{mycommfont}
@@ -50,6 +57,7 @@
 \usepackage{tikzsymbols}
 \renewcommand\qedsymbol{$\Laughey$}
 
+
 \setcounter{page}{0}
 
 %\usepackage{import}
@@ -57,16 +65,52 @@
 %\usepackage{pdfpages}
 %\usepackage{transparent}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Header
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\renewcommand{\sectionmark}[1]{\markright{#1}}
+% Front Matter Definitions
+\def\frontmatter{%
+    \pagenumbering{roman}
+    \setcounter{page}{0}
+    \renewcommand{\thesection}{\Roman{section}}
+    \renewcommand{\headrulewidth}{0pt}
+    \setcounter{secnumdepth}{3}
+    \fancyhf{} % Clear header and footer
+}
+
+% Main Matter Definitions
+\def\mainmatter{%
+    \pagenumbering{arabic}
+    \setcounter{page}{1}
+    \renewcommand{\thesection}{\arabic{section}}
+    \renewcommand{\headrulewidth}{0.5pt}
+    \setcounter{secnumdepth}{3}
+    \fancyhf{} % Clear header and footer
+    \fancyhead[R]{\rightmark} % Set header
+}
+
+
+
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SELF MADE COLORS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\chaptername}{Part}
+\patchcmd{\@makechapterhead}{\@chapapp}{Part}{}{}
+\makeatother
+\makeatletter
 
 
 
 \definecolor{myg}{RGB}{56, 140, 70}
 \definecolor{myb}{RGB}{45, 111, 177}
 \definecolor{myr}{RGB}{199, 68, 64}
+\definecolor{white}{HTML}{FFFFFF}
 \definecolor{mytheorembg}{HTML}{F2F2F9}
 \definecolor{mytheoremfr}{HTML}{00007B}
 \definecolor{mylenmabg}{HTML}{FFFAF8}
@@ -402,9 +446,9 @@
 	boxed title style={frame code={
 					\path[fill=tcbcolback]
 					([yshift=-1mm,xshift=-1mm]frame.north west)
-					arc[start angle=0,end angle=180,radius=1mm]
+					arc[start angle=0,end angle=1100,radius=1mm]
 					([yshift=-1mm,xshift=1mm]frame.north east)
-					arc[start angle=180,end angle=0,radius=1mm];
+					arc[start angle=1100,end angle=0,radius=1mm];
 					\path[left color=tcbcolback!60!black,right color=tcbcolback!60!black,
 						middle color=tcbcolback!100!black]
 					([xshift=-2mm]frame.north west) -- ([xshift=2mm]frame.north east)
@@ -422,9 +466,9 @@
 	boxed title style={frame code={
 					\path[fill=tcbcolback]
 					([yshift=-1mm,xshift=-1mm]frame.north west)
-					arc[start angle=0,end angle=180,radius=1mm]
+					arc[start angle=0,end angle=1100,radius=1mm]
 					([yshift=-1mm,xshift=1mm]frame.north east)
-					arc[start angle=180,end angle=0,radius=1mm];
+					arc[start angle=1100,end angle=0,radius=1mm];
 					\path[left color=tcbcolback!60!black,right color=tcbcolback!60!black,
 						middle color=tcbcolback!100!black]
 					([xshift=-2mm]frame.north west) -- ([xshift=2mm]frame.north east)
@@ -460,7 +504,7 @@
 		},
 	underlay boxed title={%
 			\path[fill=tcbcolframe] (title.south west)--(title.south east)
-			to[out=0, in=180] ([xshift=5mm]title.east)--
+			to[out=0, in=1100] ([xshift=5mm]title.east)--
 			(title.center-|frame.east)
 			[rounded corners=\kvtcb@arc] |-
 			(frame.north) -| cycle;
@@ -489,7 +533,7 @@
 		},
 	underlay boxed title={%
 			\path[fill=tcbcolframe] (title.south west)--(title.south east)
-			to[out=0, in=180] ([xshift=5mm]title.east)--
+			to[out=0, in=1100] ([xshift=5mm]title.east)--
 			(title.center-|frame.east)
 			[rounded corners=\kvtcb@arc] |-
 			(frame.north) -| cycle;
@@ -518,7 +562,7 @@
 		},
 	underlay boxed title={%
 			\path[fill=tcbcolframe] (title.south west)--(title.south east)
-			to[out=0, in=180] ([xshift=5mm]title.east)--
+			to[out=0, in=1100] ([xshift=5mm]title.east)--
 			(title.center-|frame.east)
 			[rounded corners=\kvtcb@arc] |-
 			(frame.north) -| cycle;
@@ -742,11 +786,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage{tikz}
-\definecolor{doc}{HTML}{C88800}
+\definecolor{doc}{HTML}{111111}%2E86C1
 \usepackage{titletoc}
 \contentsmargin{0cm}
 \titlecontents{chapter}[3.7pc]
-{\addvspace{30pt}%
+{\addvspace{20pt}%
 	\begin{tikzpicture}[remember picture, overlay]%
 		\draw[fill=doc!100,draw=doc!100] (-7,-.1) rectangle (-0.4,.5);%
 		\pgftext[left,x=-3.5cm,y=0.2cm]{\color{white}\Large\sc\bfseries Chapter\ \thecontentslabel};%
@@ -776,9 +820,11 @@
 	  \vspace*{-20\p@}%
 	  \begin{tikzpicture}[remember picture, overlay]%
 		  \pgftext[right,x=15cm,y=0.2cm]{\color{doc!100}\Huge\sc\bfseries \contentsname};%
-		  \draw[fill=doc!100,draw=doc!100] (13,-.75) rectangle (20,1);%
+		  \draw[fill=doc!100,draw=doc!100] (13.05,-.75) rectangle (20,1);%
 		  \clip (13,-.75) rectangle (20,1);
 		  \pgftext[right,x=15cm,y=0.2cm]{\color{white}\Huge\sc\bfseries \contentsname};%
 	  \end{tikzpicture}}%
 	\@starttoc{toc}}
 \makeatother
+
+

@@ -86,3 +86,58 @@
 
 \newcommand{\sol}{\setlength{\parindent}{0cm}\textbf{\textit{Solution:}}\setlength{\parindent}{1cm} }
 \newcommand{\solve}[1]{\setlength{\parindent}{0cm}\textbf{\textit{Solution: }}\setlength{\parindent}{1cm}#1 \Qed}
+
+
+
+
+
+
+% Define new command with two arguments
+\newcommand{\coverpage}[2]{
+\pagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+
+%%%%%%%%%%%%%%%%%%%% Title %%%%%%%%%%%%%%%%%%%% 
+\node[left,black,minimum width=0.625*\paperwidth,minimum height=3cm, rounded corners] at ($(current page.north east)+(-4.25,-9.5)$)
+{
+\parbox{0.65\paperwidth}{
+\begin{flushright}
+{\huge \color{black} \textbf{#1}}
+\end{flushright}
+}
+};
+
+%%%%%%%%%%%%%%%%%%%% Subtitle %%%%%%%%%%%%%%%%%%%% 
+\node[left,black,minimum width=0.625*\paperwidth,minimum height=2cm, rounded corners] at ($(current page.north east)+(-4.25,-11)$)
+{
+\parbox{0.65\paperwidth}{
+\begin{flushright}
+{\huge \color{black} \textbf{#2}}
+\end{flushright}
+}
+};
+
+%%%%%%%%%%%%%%%%%%%% Author Name %%%%%%%%%%%%%%%%%%%% 
+\node[left,black,minimum width=0.625*\paperwidth,minimum height=2cm, rounded corners] at ($(current page.north east)+(-4.25,-12.5)$)
+{
+\parbox{0.65\paperwidth}{
+\begin{flushright}
+{\Large \color{black} \textbf{Manab Shrestha}}
+\end{flushright}
+}
+};
+
+\end{tikzpicture}
+}
+
+\newcommand{\frontmatter}{
+    \pagenumbering{roman}
+    \setcounter{page}{0}
+}
+
+\newcommand{\mainmatter}{
+    \pagenumbering{arabic}
+    \pagestyle{fancy}
+    \fancyhead[r]{\rightmark}
+    \fancyhead[L]{}
+}

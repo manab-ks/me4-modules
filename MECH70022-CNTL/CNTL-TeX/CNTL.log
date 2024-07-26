@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  24 JUL 2024 22:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  26 JUL 2024 14:32
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -24,7 +24,7 @@ File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-) (preamble.tex (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (../../common/preamble.tex (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
@@ -946,6 +946,22 @@ File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup10
+) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\eulervm.sty
+Package: eulervm 2005/01/11 v4.0 (WaS)
+) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/07/18 v4.3 Extensive control of page headers and footers
+\f@nch@headwidth=\skip86
+\f@nch@O@elh=\skip87
+\f@nch@O@erh=\skip88
+\f@nch@O@olh=\skip89
+\f@nch@O@orh=\skip90
+\f@nch@O@elf=\skip91
+\f@nch@O@erf=\skip92
+\f@nch@O@olf=\skip93
+\f@nch@O@orf=\skip94
 ) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/tikzsymbols\tikzsymbols.sty (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-05-27 L3 programming layer (loader) 
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -1088,62 +1104,66 @@ File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
 \ttl@leftsep=\dimen332
-)) (macros.tex) (letterfonts.tex) (CNTL.aux (cover.aux) (chapters/1.aux) (chapters/2.aux) (chapters/3.aux) (chapters/repo.aux))
+)) (../../common/macros.tex) (../../common/letterfonts.tex)
+LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 7.
+ (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pplj.fd
+File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
+) (CNTL.aux (chapters/1.aux) (chapters/2.aux) (chapters/3.aux) (Non Examinable Material.aux))
 \openout1 = `CNTL.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 8.
-LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 8.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 7.
+LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 7.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/newpx\omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 8.
-LaTeX Font Info:    Trying to load font information for U+npxexa on input line 8.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 7.
+LaTeX Font Info:    Trying to load font information for U+npxexa on input line 7.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/newpx\unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 8.
-LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line 8.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 7.
+LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line 7.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/newpx\lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 8.
-LaTeX Font Info:    Trying to load font information for LMX+npxexx on input line 8.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 7.
+LaTeX Font Info:    Trying to load font information for LMX+npxexx on input line 7.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/newpx\lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(61.42993pt, 491.43513pt, 61.42993pt)
-* v-part:(T,H,B)=(61.42993pt, 676.63455pt, 56.9055pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=491.43513pt
-* \textheight=676.63455pt
+* modes: twoside 
+* h-part:(L,W,R)=(61.42993pt, 474.64801pt, 61.42993pt)
+* v-part:(T,H,B)=(61.42993pt, 726.71141pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=474.64801pt
+* \textheight=726.71141pt
 * \oddsidemargin=-10.84006pt
 * \evensidemargin=-10.84006pt
 * \topmargin=-47.84006pt
@@ -1151,7 +1171,7 @@ LaTeX Font Info:    ... okay on input line 8.
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=14.45377pt
-* \marginparwidth=65.0pt
+* \marginparwidth=111.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -1159,13 +1179,13 @@ LaTeX Font Info:    ... okay on input line 8.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
+* \@twosidetrue
+* \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Command `\dddot' is already robust on input line 8.
-LaTeX Info: Command `\ddddot' is already robust on input line 8.
+LaTeX Info: Command `\dddot' is already robust on input line 7.
+LaTeX Info: Command `\ddddot' is already robust on input line 7.
 (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count468
@@ -1185,7 +1205,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 8.
+Package hyperref Info: Link coloring ON on input line 7.
 \c@lstlisting=\count474
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
@@ -1200,37 +1220,71 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-\openout2 = `cover.aux'.
-
- (cover.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
- (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 9.
+ (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeur.fd
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
- (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 9.
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 7.21997pt on input line 9.
+LaTeX Font Info:    Font shape `U/zeur/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 9.
+LaTeX Font Info:    Trying to load font information for U+zeus on input line 9.
+ (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeus.fd
+File: uzeus.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for U+npxmia on input line 39.
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 9.
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 7.21997pt on input line 9.
+LaTeX Font Info:    Font shape `U/zeus/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 9.
+LaTeX Font Info:    Trying to load font information for U+zeuex on input line 9.
+ (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeuex.fd
+File: uzeuex.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 9.
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 7.21997pt on input line 9.
+LaTeX Font Info:    Font shape `U/zeuex/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 9.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 9.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.21997pt on input line 9.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 9.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 9.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.21997pt on input line 9.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 9.
+LaTeX Font Info:    Trying to load font information for U+npxmia on input line 9.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/newpx\unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+npxsym on input line 39.
+LaTeX Font Info:    Trying to load font information for U+npxsym on input line 9.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/newpx\unpxsym.fd
 File: unpxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/npxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 39.
+LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 9.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/newpx\unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
-))
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 9.
+ (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
 
 [0
 
+{C:/Users/Lenovo T14/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
 
-{C:/Users/Lenovo T14/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 15.
+LaTeX Font Warning: Font shape `OT1/pplj/b/sc' undefined
+(Font)              using `OT1/pplj/b/n' instead on input line 14.
 
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1243,64 +1297,73 @@ Missing character: There is no ; in font nullfont!
 \openout5 = `CNTL.toc'.
 
 
+Underfull \vbox (badness 1412) has occurred while \output is active []
+
+
 
 [1
-
-
 
 ]
 \openout2 = `chapters/1.aux'.
 
  (chapters/1.tex
 Chapter 1.
-)
 
-[2
+
+[1
 
 
 ]
+
+[2]
+
+[3])
+
+[4]
 \openout2 = `chapters/2.aux'.
 
  (chapters/2.tex
 Chapter 2.
-)
 
-[3
-
-
-
-
-]
-\openout2 = `chapters/3.aux'.
-
- (chapters/3.tex
-Chapter 3.
-)
-
-[4
-
-
-
-
-]
-\openout2 = `chapters/repo.aux'.
-
- (chapters/repo.tex
 
 [5
 
 
 
 
-{C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newpx/px-lms.enc}]
-\g__tikzsymbols_savebox_F_0 g 0 G_10_Laughey_1_none_none_box=\box147
+]
+Overfull \hbox (0.28728pt too wide) in paragraph at lines 7--7
+[]\OT1/pplj/b/n/12 CNC Con-troller De-sign for Tran-sients, Dis-tur-bance Re-jec-tion & Multi-Axis Con-
+ []
 
 
-[6{C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newpx/pxb-lms.enc}])
+
+[6])
 
 [7]
+\openout2 = `chapters/3.aux'.
 
-[8] (CNTL.aux (cover.aux) (chapters/1.aux) (chapters/2.aux) (chapters/3.aux) (chapters/repo.aux))
+ (chapters/3.tex
+Chapter 3.
+
+
+[8
+
+
+
+
+]
+
+[9]
+
+[10])
+
+[11]
+\openout2 = `"Non Examinable Material.aux"'.
+
+
+No file Non Examinable Material.tex.
+(CNTL.aux (chapters/1.aux) (chapters/2.aux) (chapters/3.aux) (Non Examinable Material.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -1311,17 +1374,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38052 strings out of 473904
- 772705 string characters out of 5724204
- 1976908 words of memory out of 5000000
- 60084 multiletter control sequences out of 15000+600000
- 592567 words of font info for 134 fonts, out of 8000000 for 9000
+ 37938 strings out of 473904
+ 768882 string characters out of 5724204
+ 1943908 words of memory out of 5000000
+ 60017 multiletter control sequences out of 15000+600000
+ 584523 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,102p,1219b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Lenovo T14\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/NewPXBMI.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/NewPXMI.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/NewPXMI_gnu.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxbmiaX.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxbsys.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxmiaX.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxsys.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsym.pfb>
-Output written on CNTL.pdf (9 pages, 348506 bytes).
+ 99i,11n,102p,1205b,722s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on CNTL.pdf (13 pages, 135007 bytes).
 PDF statistics:
- 529 PDF objects out of 1000 (max. 8388607)
- 93 named destinations out of 1000 (max. 500000)
- 523 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 386 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
