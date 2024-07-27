@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  28 JUL 2024 00:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  28 JUL 2024 00:31
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1278,11 +1278,11 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 9
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-<cover.png, id=42, 658.71094pt x 514.92375pt>
+<cover.png, id=42, 658.71094pt x 380.17032pt>
 File: cover.png Graphic file (type png)
 <use cover.png>
 Package pdftex.def Info: cover.png  used on input line 9.
-(pdftex.def)             Requested size: 355.98601pt x 278.28253pt.
+(pdftex.def)             Requested size: 355.98601pt x 205.45714pt.
 
 
 [0
@@ -1388,7 +1388,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,11n,102p,1205b,722s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on CNTL.pdf (13 pages, 171057 bytes).
+Output written on CNTL.pdf (13 pages, 166009 bytes).
 PDF statistics:
  389 PDF objects out of 1000 (max. 8388607)
  57 named destinations out of 1000 (max. 500000)
