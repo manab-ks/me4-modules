@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  25 JUL 2024 19:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  27 JUL 2024 17:30
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1278,10 +1278,16 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 9
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
+<cover.png, id=42, 355.3275pt x 227.6505pt>
+File: cover.png Graphic file (type png)
+<use cover.png>
+Package pdftex.def Info: cover.png  used on input line 9.
+(pdftex.def)             Requested size: 368.57634pt x 236.1465pt.
 
-[0
 
-{C:/Users/Lenovo T14/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+[1
+
+{C:/Users/Lenovo T14/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./cover.png>]
 
 LaTeX Font Warning: Font shape `OT1/pplj/b/sc' undefined
 (Font)              using `OT1/pplj/b/n' instead on input line 14.
@@ -1307,7 +1313,7 @@ Missing character: There is no ; in font nullfont!
 
 
 
-[1
+[2
 
 ]
 \openout2 = `chapters/1.aux'.
@@ -1316,7 +1322,7 @@ Missing character: There is no ; in font nullfont!
 Chapter 1.
 )
 
-[2
+[3
 
 
 ]
@@ -1326,7 +1332,7 @@ Chapter 1.
 Chapter 2.
 )
 
-[3
+[4
 
 
 
@@ -1338,7 +1344,7 @@ Chapter 2.
 Chapter 3.
 )
 
-[4
+[5
 
 
 
@@ -1350,7 +1356,7 @@ Chapter 3.
 Chapter 4.
 )
 
-[5
+[6
 
 
 
@@ -1362,7 +1368,7 @@ Chapter 4.
 Chapter 5.
 )
 
-[6
+[7
 
 
 
@@ -1374,7 +1380,7 @@ Chapter 5.
 Chapter 6.
 )
 
-[7
+[8
 
 
 
@@ -1386,7 +1392,7 @@ Chapter 6.
 Chapter 7.
 )
 
-[8
+[9
 
 
 
@@ -1398,7 +1404,7 @@ Chapter 7.
 Chapter 8.
 )
 
-[9
+[10
 
 
 
@@ -1410,7 +1416,7 @@ Chapter 8.
 Chapter 9.
 )
 
-[10
+[11
 
 
 
@@ -1422,7 +1428,7 @@ Chapter 9.
 Chapter 10.
 )
 
-[11
+[12
 
 
 
@@ -1434,7 +1440,7 @@ Chapter 10.
 Chapter 11.
 )
 
-[12
+[13
 
 
 
@@ -1446,7 +1452,7 @@ Chapter 11.
 Chapter 12.
 )
 
-[13
+[14
 
 
 
@@ -1474,7 +1480,7 @@ File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 Missing character: There is no Ð in font zeuex10!
 
 
-[14
+[15
 
 
 
@@ -1486,7 +1492,7 @@ Missing character: There is no ® in font zeusm10!
 Missing character: There is no ® in font zeusm10!
 
 
-[15]
+[16]
 Missing character: There is no Í in font zeuex10!
 Missing character: There is no Í in font zeuex10!
 Missing character: There is no Í in font zeuex10!
@@ -1517,9 +1523,9 @@ File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 Missing character: There is no Í in font zeuex10!
 )
 
-[16]
+[17]
 
-[17] (OPT.aux (chapters/1.aux) (chapters/2.aux) (chapters/3.aux) (chapters/4.aux) (chapters/5.aux) (chapters/6.aux) (chapters/7.aux) (chapters/8.aux) (chapters/9.aux) (chapters/10.aux) (chapters/11.aux) (chapters/12.aux) (chapters/repo.aux))
+[18] (OPT.aux (chapters/1.aux) (chapters/2.aux) (chapters/3.aux) (chapters/4.aux) (chapters/5.aux) (chapters/6.aux) (chapters/7.aux) (chapters/8.aux) (chapters/9.aux) (chapters/10.aux) (chapters/11.aux) (chapters/12.aux) (chapters/repo.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -1530,17 +1536,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38663 strings out of 473904
- 786267 string characters out of 5724204
+ 38674 strings out of 473904
+ 786426 string characters out of 5724204
  1954908 words of memory out of 5000000
- 60594 multiletter control sequences out of 15000+600000
+ 60605 multiletter control sequences out of 15000+600000
  611915 words of font info for 180 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,102p,606b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/euex10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufb10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurb7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmbb.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsym.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on OPT.pdf (18 pages, 287408 bytes).
+Output written on OPT.pdf (18 pages, 364891 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
+ 401 PDF objects out of 1000 (max. 8388607)
  73 named destinations out of 1000 (max. 500000)
- 291 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 296 words of extra memory for PDF output out of 10000 (max. 10000000)
 

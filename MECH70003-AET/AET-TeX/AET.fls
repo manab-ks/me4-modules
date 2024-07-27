@@ -7,9 +7,9 @@ INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cl
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT ..\..\common\preamble2.tex
-INPUT ..\..\common\preamble2.tex
-INPUT ..\..\common\preamble2.tex
+INPUT ..\..\common\preamble.tex
+INPUT ..\..\common\preamble.tex
+INPUT ..\..\common\preamble.tex
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
@@ -397,6 +397,18 @@ INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino
 INPUT .\AET.aux
 INPUT .\AET.aux
 INPUT AET.aux
+INPUT .\chapters\1.aux
+INPUT .\chapters\1.aux
+INPUT chapters\1.aux
+INPUT .\chapters\2.aux
+INPUT .\chapters\2.aux
+INPUT chapters\2.aux
+INPUT .\chapters\3.aux
+INPUT .\chapters\3.aux
+INPUT chapters\3.aux
+INPUT .\chapters\repo.aux
+INPUT .\chapters\repo.aux
+INPUT chapters\repo.aux
 OUTPUT AET.aux
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
@@ -483,11 +495,18 @@ INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpaz
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\cover.png
+INPUT .\cover.png
+INPUT .\cover.png
+INPUT .\cover.png
+INPUT .\cover.png
+INPUT .\cover.png
+INPUT .\cover.png
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
@@ -496,11 +515,27 @@ INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
+INPUT .\AET.toc
+INPUT .\AET.toc
+INPUT AET.toc
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
 OUTPUT AET.toc
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9o.vf
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9o.vf
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
@@ -511,12 +546,6 @@ OUTPUT chapters\1.aux
 INPUT .\chapters\1.tex
 INPUT .\chapters\1.tex
 INPUT chapters\1.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
 INPUT .\chapters\2.tex
 INPUT .\chapters\2.tex
 OUTPUT chapters\2.aux
