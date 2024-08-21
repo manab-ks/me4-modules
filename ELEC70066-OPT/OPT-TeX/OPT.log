@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  27 JUL 2024 17:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  21 AUG 2024 11:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Lenovo T14/Documents/ME4/Modules/ELEC70066-OPT/OPT-TeX/OPT.tex"
-(c:/Users/Lenovo T14/Documents/ME4/Modules/ELEC70066-OPT/OPT-TeX/OPT.tex
+**"c:/Users/Lenovo T14/OneDrive - Imperial College London/ME4/Modules/ELEC70066-OPT/OPT-TeX/OPT.tex"
+(c:/Users/Lenovo T14/OneDrive - Imperial College London/ME4/Modules/ELEC70066-OPT/OPT-TeX/OPT.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -1104,7 +1104,18 @@ File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
 \ttl@leftsep=\dimen332
-)) (../../common/macros.tex) (../../common/letterfonts.tex)
+)) (../../common/macros.tex (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box146
+\beforetitleunit=\skip95
+\aftertitleunit=\skip96
+\ttl@plus=\dimen333
+\ttl@minus=\dimen334
+\ttl@toksa=\toks55
+\titlewidth=\dimen335
+\titlewidthlast=\dimen336
+\titlewidthfirst=\dimen337
+)) (../../common/letterfonts.tex)
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 8.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
@@ -1189,16 +1200,16 @@ LaTeX Info: Command `\ddddot' is already robust on input line 8.
 (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count468
-\scratchdimen=\dimen333
-\scratchbox=\box146
+\scratchdimen=\dimen338
+\scratchbox=\box147
 \nofMPsegments=\count469
 \nofMParguments=\count470
-\everyMPshowfont=\toks55
+\everyMPshowfont=\toks56
 \MPscratchCnt=\count471
-\MPscratchDim=\dimen334
+\MPscratchDim=\dimen339
 \MPnumerator=\count472
 \makeMPintoPDFobject=\count473
-\everyMPtoPDFconversion=\toks56
+\everyMPtoPDFconversion=\toks57
 ) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1209,8 +1220,8 @@ Package hyperref Info: Link coloring ON on input line 8.
 \c@lstlisting=\count474
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks57
-\inpenc@posthook=\toks58
+\inpenc@prehook=\toks58
+\inpenc@posthook=\toks59
 ) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
@@ -1285,7 +1296,7 @@ Package pdftex.def Info: cover.png  used on input line 9.
 (pdftex.def)             Requested size: 368.57634pt x 236.1465pt.
 
 
-[1
+[0
 
 {C:/Users/Lenovo T14/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./cover.png>]
 
@@ -1313,7 +1324,9 @@ Missing character: There is no ; in font nullfont!
 
 
 
-[2
+LaTeX Font Info:    Font shape `OT1/pplj/m/sl' in size <10> not available
+(Font)              Font shape `OT1/pplj/m/it' tried instead on input line 16.
+[1
 
 ]
 \openout2 = `chapters/1.aux'.
@@ -1322,7 +1335,7 @@ Missing character: There is no ; in font nullfont!
 Chapter 1.
 )
 
-[3
+[1
 
 
 ]
@@ -1332,7 +1345,7 @@ Chapter 1.
 Chapter 2.
 )
 
-[4
+[2
 
 
 
@@ -1344,7 +1357,7 @@ Chapter 2.
 Chapter 3.
 )
 
-[5
+[3
 
 
 
@@ -1356,7 +1369,7 @@ Chapter 3.
 Chapter 4.
 )
 
-[6
+[4
 
 
 
@@ -1368,7 +1381,7 @@ Chapter 4.
 Chapter 5.
 )
 
-[7
+[5
 
 
 
@@ -1380,7 +1393,7 @@ Chapter 5.
 Chapter 6.
 )
 
-[8
+[6
 
 
 
@@ -1392,7 +1405,7 @@ Chapter 6.
 Chapter 7.
 )
 
-[9
+[7
 
 
 
@@ -1404,7 +1417,7 @@ Chapter 7.
 Chapter 8.
 )
 
-[10
+[8
 
 
 
@@ -1416,7 +1429,7 @@ Chapter 8.
 Chapter 9.
 )
 
-[11
+[9
 
 
 
@@ -1428,7 +1441,7 @@ Chapter 9.
 Chapter 10.
 )
 
-[12
+[10
 
 
 
@@ -1440,7 +1453,7 @@ Chapter 10.
 Chapter 11.
 )
 
-[13
+[11
 
 
 
@@ -1452,7 +1465,7 @@ Chapter 11.
 Chapter 12.
 )
 
-[14
+[12
 
 
 
@@ -1480,19 +1493,19 @@ File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 Missing character: There is no Ð in font zeuex10!
 
 
-[15
+[13
 
 
 
 
 ]
-\g__tikzsymbols_savebox_F_0 g 0 G_10_Laughey_1_none_none_box=\box147
+\g__tikzsymbols_savebox_F_0 g 0 G_10_Laughey_1_none_none_box=\box148
 
 Missing character: There is no ® in font zeusm10!
 Missing character: There is no ® in font zeusm10!
 
 
-[16]
+[14]
 Missing character: There is no Í in font zeuex10!
 Missing character: There is no Í in font zeuex10!
 Missing character: There is no Í in font zeuex10!
@@ -1523,9 +1536,9 @@ File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 Missing character: There is no Í in font zeuex10!
 )
 
-[17]
+[15]
 
-[18] (OPT.aux (chapters/1.aux) (chapters/2.aux) (chapters/3.aux) (chapters/4.aux) (chapters/5.aux) (chapters/6.aux) (chapters/7.aux) (chapters/8.aux) (chapters/9.aux) (chapters/10.aux) (chapters/11.aux) (chapters/12.aux) (chapters/repo.aux))
+[16] (OPT.aux (chapters/1.aux) (chapters/2.aux) (chapters/3.aux) (chapters/4.aux) (chapters/5.aux) (chapters/6.aux) (chapters/7.aux) (chapters/8.aux) (chapters/9.aux) (chapters/10.aux) (chapters/11.aux) (chapters/12.aux) (chapters/repo.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -1536,17 +1549,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38674 strings out of 473904
- 786426 string characters out of 5724204
- 1954908 words of memory out of 5000000
- 60605 multiletter control sequences out of 15000+600000
+ 38921 strings out of 473904
+ 791139 string characters out of 5724204
+ 1955908 words of memory out of 5000000
+ 60854 multiletter control sequences out of 15000+600000
  611915 words of font info for 180 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,102p,606b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,102p,631b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/euex10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufb10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurb7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmbb.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsym.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on OPT.pdf (18 pages, 364891 bytes).
+Output written on OPT.pdf (18 pages, 364911 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
+ 394 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
  296 words of extra memory for PDF output out of 10000 (max. 10000000)
 

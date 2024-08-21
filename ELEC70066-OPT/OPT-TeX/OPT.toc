@@ -1,13 +1,13 @@
-\contentsline {chapter}{\numberline {1}Convex Sets}{3}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Convex Functions}{4}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Convex Optimisation Problems}{5}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Duality}{6}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Approximation and Fitting}{7}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Statistical Estimation}{8}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Geometric Problems}{9}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Interior Point Methods}{10}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Integer Programming}{11}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Multi Objective Programming}{12}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Pareto Optimality}{13}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Complexity Analysis}{14}{chapter.12}%
+\contentsline {chapter}{\numberline {1}Convex Sets}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Convex Functions}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Convex Optimisation Problems}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Duality}{4}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Approximation and Fitting}{5}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Statistical Estimation}{6}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Geometric Problems}{7}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Interior Point Methods}{8}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Integer Programming}{9}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Multi Objective Programming}{10}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Pareto Optimality}{11}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Complexity Analysis}{12}{chapter.12}%
 \contentsfinish 
