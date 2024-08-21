@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  28 JUL 2024 00:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  21 AUG 2024 11:18
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Lenovo T14/Documents/ME4/Modules/MECH70045-ANME/ANME-TeX/ANME.tex"
-(c:/Users/Lenovo T14/Documents/ME4/Modules/MECH70045-ANME/ANME-TeX/ANME.tex
+**"c:/Users/Lenovo T14/OneDrive - Imperial College London/ME4/Modules/MECH70045-ANME/ANME-TeX/ANME.tex"
+(c:/Users/Lenovo T14/OneDrive - Imperial College London/ME4/Modules/MECH70045-ANME/ANME-TeX/ANME.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -1446,14 +1446,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  38451 strings out of 473904
- 780074 string characters out of 5724204
+ 780849 string characters out of 5724204
  1955908 words of memory out of 5000000
  60445 multiletter control sequences out of 15000+600000
  611915 words of font info for 180 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,102p,1178b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,102p,1203b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/euex10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufb10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurb7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmbb.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsym.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ANME.pdf (11 pages, 330873 bytes).
+Output written on ANME.pdf (11 pages, 330916 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  59 named destinations out of 1000 (max. 500000)

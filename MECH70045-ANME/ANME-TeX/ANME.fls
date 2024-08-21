@@ -1,6 +1,6 @@
-PWD c:\Users\Lenovo T14\Documents\ME4\Modules\MECH70045-ANME\ANME-TeX
+PWD c:\Users\Lenovo T14\OneDrive - Imperial College London\ME4\Modules\MECH70045-ANME\ANME-TeX
 INPUT C:\Users\Lenovo T14\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Lenovo T14\Documents\ME4\Modules\MECH70045-ANME\ANME-TeX\ANME.tex
+INPUT c:\Users\Lenovo T14\OneDrive - Imperial College London\ME4\Modules\MECH70045-ANME\ANME-TeX\ANME.tex
 OUTPUT ANME.log
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls

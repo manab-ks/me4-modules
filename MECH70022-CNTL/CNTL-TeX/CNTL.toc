@@ -36,7 +36,7 @@
 \contentsline {section}{\numberline {3.2}State Variable Representation of Discrete Systems}{10}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Discrete State Variable Model from the Time Response of the Continuous Model}{10}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Discrete State Variable Model from Discrete Transfer Function G(z)}{10}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Extra Material}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Non-examinable Material}{11}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Kalman Filtering}{11}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Optimal Control}{11}{subsection.3.3.2}%
 \contentsfinish 

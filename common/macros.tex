@@ -134,15 +134,22 @@
 
 }
 
+\usepackage{titlesec}
+\assignpagestyle{\chapter}{fancy}
 
 \newcommand{\frontmatter}{
+    \renewcommand{\headrulewidth}{0pt}
     \pagenumbering{roman}
     \setcounter{page}{0}
+    \fancyfoot[C]{}
 }
 
 \newcommand{\mainmatter}{
+    \renewcommand{\headrulewidth}{0.5pt}
     \pagenumbering{arabic}
     \pagestyle{fancy}
-    \fancyhead[r]{\rightmark}
-    \fancyhead[L]{}
+    \fancyhead[l]{\rightmark}
+    \fancyhead[r]{\thepage}
+    \fancyfoot[C]{}
 }
+

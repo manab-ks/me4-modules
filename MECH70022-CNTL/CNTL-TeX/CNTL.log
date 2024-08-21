@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  29 JUL 2024 11:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  21 AUG 2024 11:38
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1104,7 +1104,18 @@ File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
 \ttl@leftsep=\dimen332
-)) (../../common/macros.tex) (../../common/letterfonts.tex)
+)) (../../common/macros.tex (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box146
+\beforetitleunit=\skip95
+\aftertitleunit=\skip96
+\ttl@plus=\dimen333
+\ttl@minus=\dimen334
+\ttl@toksa=\toks55
+\titlewidth=\dimen335
+\titlewidthlast=\dimen336
+\titlewidthfirst=\dimen337
+)) (../../common/letterfonts.tex)
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 7.
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
@@ -1189,16 +1200,16 @@ LaTeX Info: Command `\ddddot' is already robust on input line 7.
 (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count468
-\scratchdimen=\dimen333
-\scratchbox=\box146
+\scratchdimen=\dimen338
+\scratchbox=\box147
 \nofMPsegments=\count469
 \nofMParguments=\count470
-\everyMPshowfont=\toks55
+\everyMPshowfont=\toks56
 \MPscratchCnt=\count471
-\MPscratchDim=\dimen334
+\MPscratchDim=\dimen339
 \MPnumerator=\count472
 \makeMPintoPDFobject=\count473
-\everyMPtoPDFconversion=\toks56
+\everyMPtoPDFconversion=\toks57
 ) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1209,8 +1220,8 @@ Package hyperref Info: Link coloring ON on input line 7.
 \c@lstlisting=\count474
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks57
-\inpenc@posthook=\toks58
+\inpenc@prehook=\toks58
+\inpenc@posthook=\toks59
 ) (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
@@ -1307,6 +1318,8 @@ Underfull \vbox (badness 1412) has occurred while \output is active []
 
 
 
+LaTeX Font Info:    Font shape `OT1/pplj/m/sl' in size <10> not available
+(Font)              Font shape `OT1/pplj/m/it' tried instead on input line 18.
 [1
 
 ]
@@ -1339,7 +1352,7 @@ Chapter 2.
 
 ]
 Overfull \hbox (0.28728pt too wide) in paragraph at lines 7--7
-[]\OT1/pplj/b/n/12 CNC Con-troller De-sign for Tran-sients, Dis-tur-bance Re-jec-tion & Multi-Axis Con-
+|[]\OT1/pplj/b/n/12 CNC Con-troller De-sign for Tran-sients, Dis-tur-bance Re-jec-tion & Multi-Axis Con-
  []
 
 
@@ -1380,15 +1393,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37946 strings out of 473904
- 769609 string characters out of 5724204
- 1943908 words of memory out of 5000000
- 60025 multiletter control sequences out of 15000+600000
- 584523 words of font info for 99 fonts, out of 8000000 for 9000
+ 38204 strings out of 473904
+ 773174 string characters out of 5724204
+ 1944908 words of memory out of 5000000
+ 60279 multiletter control sequences out of 15000+600000
+ 584969 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,102p,1230b,722s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,102p,1230b,724s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on CNTL.pdf (13 pages, 165910 bytes).
+Output written on CNTL.pdf (13 pages, 166075 bytes).
 PDF statistics:
  389 PDF objects out of 1000 (max. 8388607)
  57 named destinations out of 1000 (max. 500000)
