@@ -127,9 +127,9 @@
 }
 };
 
-%%%%%%%%%%%%%%%%%%%% graphics %%%%%%%%%%%%%%%%%%%% 
-\node[left,inner sep=0pt]  at ($(current page.north east)+(-4.25,-18)$)
-    {\includegraphics[width=0.75\textwidth]{cover.png}};
+% %%%%%%%%%%%%%%%%%%%% graphics %%%%%%%%%%%%%%%%%%%% 
+% \node[left,inner sep=0pt]  at ($(current page.north east)+(-4.25,-18)$)
+%     {\includegraphics[width=0.75\textwidth]{cover.png}};
 \end{tikzpicture}
 
 }
@@ -148,8 +148,8 @@
     \renewcommand{\headrulewidth}{0.5pt}
     \pagenumbering{arabic}
     \pagestyle{fancy}
-    \fancyhead[l]{\rightmark}
-    \fancyhead[r]{\thepage}
+    \fancyhead[re,lo]{\rightmark}
+    \fancyhead[le,ro]{\thepage}
     \fancyfoot[C]{}
 }
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  21 AUG 2024 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.22)  22 AUG 2024 22:22
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1168,7 +1168,7 @@ LaTeX Font Info:    ... okay on input line 7.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(61.42993pt, 474.64801pt, 61.42993pt)
 * v-part:(T,H,B)=(61.42993pt, 726.71141pt, 56.9055pt)
 * \paperwidth=597.50787pt
@@ -1182,7 +1182,7 @@ LaTeX Font Info:    ... okay on input line 7.
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=14.45377pt
-* \marginparwidth=111.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -1190,8 +1190,8 @@ LaTeX Font Info:    ... okay on input line 7.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
@@ -1289,16 +1289,10 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 9
  (C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-<cover.png, id=42, 658.71094pt x 380.17032pt>
-File: cover.png Graphic file (type png)
-<use cover.png>
-Package pdftex.def Info: cover.png  used on input line 9.
-(pdftex.def)             Requested size: 355.98601pt x 205.45714pt.
-
 
 [0
 
-{C:/Users/Lenovo T14/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./cover.png>]
+{C:/Users/Lenovo T14/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
 
 LaTeX Font Warning: Font shape `OT1/pplj/b/sc' undefined
 (Font)              using `OT1/pplj/b/n' instead on input line 14.
@@ -1314,18 +1308,23 @@ Missing character: There is no ; in font nullfont!
 \openout5 = `CNTL.toc'.
 
 
-Underfull \vbox (badness 1412) has occurred while \output is active []
-
-
 
 LaTeX Font Info:    Font shape `OT1/pplj/m/sl' in size <10> not available
 (Font)              Font shape `OT1/pplj/m/it' tried instead on input line 18.
 [1
 
 ]
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
+(fancyhdr)                Please consider using the `twoside' option on input line 19.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
+(fancyhdr)                Please consider using the `twoside' option on input line 19.
+
 \openout2 = `chapters/1.aux'.
 
- (chapters/1.tex
+(chapters/1.tex
 Chapter 1.
 
 
@@ -1393,17 +1392,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38204 strings out of 473904
- 773174 string characters out of 5724204
+ 38196 strings out of 473904
+ 773047 string characters out of 5724204
  1944908 words of memory out of 5000000
- 60279 multiletter control sequences out of 15000+600000
+ 60271 multiletter control sequences out of 15000+600000
  584969 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,102p,1230b,724s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Lenovo T14/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on CNTL.pdf (13 pages, 166075 bytes).
+Output written on CNTL.pdf (13 pages, 135184 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
+ 386 PDF objects out of 1000 (max. 8388607)
  57 named destinations out of 1000 (max. 500000)
- 498 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
