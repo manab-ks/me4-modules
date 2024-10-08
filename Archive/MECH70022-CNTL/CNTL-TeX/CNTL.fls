@@ -1,7 +1,7 @@
-PWD c:\Users\Lenovo T14\OneDrive - Imperial College London\ME4\Modules\ELEC70066-OPT\OPT-TeX
+PWD c:\Users\Lenovo T14\OneDrive - Imperial College London\ME4\Modules\MECH70022-CNTL\CNTL-TeX
 INPUT C:\Users\Lenovo T14\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Lenovo T14\OneDrive - Imperial College London\ME4\Modules\ELEC70066-OPT\OPT-TeX\OPT.tex
-OUTPUT OPT.log
+INPUT c:\Users\Lenovo T14\OneDrive - Imperial College London\ME4\Modules\MECH70022-CNTL\CNTL-TeX\CNTL.tex
+OUTPUT CNTL.log
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -288,7 +288,7 @@ INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontend
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
-OUTPUT OPT.pdf
+OUTPUT CNTL.pdf
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbposter.code.tex
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
@@ -396,9 +396,9 @@ INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplj
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplj.fd
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplj.fd
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT .\OPT.aux
-INPUT .\OPT.aux
-INPUT OPT.aux
+INPUT .\CNTL.aux
+INPUT .\CNTL.aux
+INPUT CNTL.aux
 INPUT .\chapters\1.aux
 INPUT .\chapters\1.aux
 INPUT chapters\1.aux
@@ -408,37 +408,10 @@ INPUT chapters\2.aux
 INPUT .\chapters\3.aux
 INPUT .\chapters\3.aux
 INPUT chapters\3.aux
-INPUT .\chapters\4.aux
-INPUT .\chapters\4.aux
-INPUT chapters\4.aux
-INPUT .\chapters\5.aux
-INPUT .\chapters\5.aux
-INPUT chapters\5.aux
-INPUT .\chapters\6.aux
-INPUT .\chapters\6.aux
-INPUT chapters\6.aux
-INPUT .\chapters\7.aux
-INPUT .\chapters\7.aux
-INPUT chapters\7.aux
-INPUT .\chapters\8.aux
-INPUT .\chapters\8.aux
-INPUT chapters\8.aux
-INPUT .\chapters\9.aux
-INPUT .\chapters\9.aux
-INPUT chapters\9.aux
-INPUT .\chapters\10.aux
-INPUT .\chapters\10.aux
-INPUT chapters\10.aux
-INPUT .\chapters\11.aux
-INPUT .\chapters\11.aux
-INPUT chapters\11.aux
-INPUT .\chapters\12.aux
-INPUT .\chapters\12.aux
-INPUT chapters\12.aux
-INPUT .\chapters\repo.aux
-INPUT .\chapters\repo.aux
-INPUT chapters\repo.aux
-OUTPUT OPT.aux
+INPUT .\Non Examinable Material.aux
+INPUT .\Non Examinable Material.aux
+INPUT Non Examinable Material.aux
+OUTPUT CNTL.aux
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
@@ -537,14 +510,15 @@ INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
-INPUT .\OPT.toc
-INPUT .\OPT.toc
-INPUT OPT.toc
+INPUT .\CNTL.toc
+INPUT .\CNTL.toc
+INPUT CNTL.toc
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-OUTPUT OPT.toc
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
+OUTPUT CNTL.toc
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9o.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
@@ -554,16 +528,20 @@ INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9o.vf
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9o.vf
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
 INPUT .\chapters\1.tex
 INPUT .\chapters\1.tex
 OUTPUT chapters\1.aux
 INPUT .\chapters\1.tex
 INPUT .\chapters\1.tex
 INPUT chapters\1.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
 INPUT .\chapters\2.tex
 INPUT .\chapters\2.tex
 OUTPUT chapters\2.aux
@@ -576,175 +554,8 @@ OUTPUT chapters\3.aux
 INPUT .\chapters\3.tex
 INPUT .\chapters\3.tex
 INPUT chapters\3.tex
-INPUT .\chapters\4.tex
-INPUT .\chapters\4.tex
-OUTPUT chapters\4.aux
-INPUT .\chapters\4.tex
-INPUT .\chapters\4.tex
-INPUT chapters\4.tex
-INPUT .\chapters\5.tex
-INPUT .\chapters\5.tex
-OUTPUT chapters\5.aux
-INPUT .\chapters\5.tex
-INPUT .\chapters\5.tex
-INPUT chapters\5.tex
-INPUT .\chapters\6.tex
-INPUT .\chapters\6.tex
-OUTPUT chapters\6.aux
-INPUT .\chapters\6.tex
-INPUT .\chapters\6.tex
-INPUT chapters\6.tex
-INPUT .\chapters\7.tex
-INPUT .\chapters\7.tex
-OUTPUT chapters\7.aux
-INPUT .\chapters\7.tex
-INPUT .\chapters\7.tex
-INPUT chapters\7.tex
-INPUT .\chapters\8.tex
-INPUT .\chapters\8.tex
-OUTPUT chapters\8.aux
-INPUT .\chapters\8.tex
-INPUT .\chapters\8.tex
-INPUT chapters\8.tex
-INPUT .\chapters\9.tex
-INPUT .\chapters\9.tex
-OUTPUT chapters\9.aux
-INPUT .\chapters\9.tex
-INPUT .\chapters\9.tex
-INPUT chapters\9.tex
-INPUT .\chapters\10.tex
-INPUT .\chapters\10.tex
-OUTPUT chapters\10.aux
-INPUT .\chapters\10.tex
-INPUT .\chapters\10.tex
-INPUT chapters\10.tex
-INPUT .\chapters\11.tex
-INPUT .\chapters\11.tex
-OUTPUT chapters\11.aux
-INPUT .\chapters\11.tex
-INPUT .\chapters\11.tex
-INPUT chapters\11.tex
-INPUT .\chapters\12.tex
-INPUT .\chapters\12.tex
-OUTPUT chapters\12.aux
-INPUT .\chapters\12.tex
-INPUT .\chapters\12.tex
-INPUT chapters\12.tex
-INPUT .\chapters\repo.tex
-INPUT .\chapters\repo.tex
-OUTPUT chapters\repo.aux
-INPUT .\chapters\repo.tex
-INPUT .\chapters\repo.tex
-INPUT chapters\repo.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmb7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmb7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmb7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ufplmbb.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ufplmbb.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ufplmbb.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbi9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeusm10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurm10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurm7.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeusm7.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeuex10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\euex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplbi9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbi.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbi8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbij8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\newpx\zplsym.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeusb10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\newpx\zplsym.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurb10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeuex10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\euex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurm7.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9c.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurb7.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrij8r.tfm
-INPUT OPT.aux
+OUTPUT Non Examinable Material.aux
+INPUT CNTL.aux
 INPUT .\chapters\1.aux
 INPUT .\chapters\1.aux
 INPUT chapters\1.aux
@@ -754,85 +565,14 @@ INPUT chapters\2.aux
 INPUT .\chapters\3.aux
 INPUT .\chapters\3.aux
 INPUT chapters\3.aux
-INPUT .\chapters\4.aux
-INPUT .\chapters\4.aux
-INPUT chapters\4.aux
-INPUT .\chapters\5.aux
-INPUT .\chapters\5.aux
-INPUT chapters\5.aux
-INPUT .\chapters\6.aux
-INPUT .\chapters\6.aux
-INPUT chapters\6.aux
-INPUT .\chapters\7.aux
-INPUT .\chapters\7.aux
-INPUT chapters\7.aux
-INPUT .\chapters\8.aux
-INPUT .\chapters\8.aux
-INPUT chapters\8.aux
-INPUT .\chapters\9.aux
-INPUT .\chapters\9.aux
-INPUT chapters\9.aux
-INPUT .\chapters\10.aux
-INPUT .\chapters\10.aux
-INPUT chapters\10.aux
-INPUT .\chapters\11.aux
-INPUT .\chapters\11.aux
-INPUT chapters\11.aux
-INPUT .\chapters\12.aux
-INPUT .\chapters\12.aux
-INPUT chapters\12.aux
-INPUT .\chapters\repo.aux
-INPUT .\chapters\repo.aux
-INPUT chapters\repo.aux
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbsy10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbsy10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\euex10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\euex10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufb10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufb10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurb10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurb10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurb7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurb7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurm7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurm7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eusm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eusm10.pfb
+INPUT .\Non Examinable Material.aux
+INPUT .\Non Examinable Material.aux
+INPUT Non Examinable Material.aux
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplbj8a.pfb
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplbj8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\mathpazo\fplmbb.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\mathpazo\fplmbb.pfb
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplrc8a.pfb
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplrc8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplrij8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplrij8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsym.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsym.pfb
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplbi8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplbi8a.pfb
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
 INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb

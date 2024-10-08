@@ -1,754 +1,733 @@
-PWD c:\Users\Lenovo T14\OneDrive - Imperial College London\ME4\Modules\MECH70045-ANME\ANME-TeX
-INPUT C:\Users\Lenovo T14\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Lenovo T14\OneDrive - Imperial College London\ME4\Modules\MECH70045-ANME\ANME-TeX\ANME.tex
+PWD /Users/cerebra/ME4/me4-modules/MECH70045-ANME/ANME-TeX
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/cerebra/ME4/me4-modules/MECH70045-ANME/ANME-TeX/ANME.tex
 OUTPUT ANME.log
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT ..\..\common\preamble.tex
-INPUT ..\..\common\preamble.tex
-INPUT ..\..\common\preamble.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\newpxmath.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\newpxmath.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\centernot.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\centernot.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\xfrac\xfrac.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\xfrac\xfrac.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\cancel\cancel.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\cancel\cancel.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\theoremref\theoremref.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\theoremref\theoremref.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbraster.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbskins.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzfill.image.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzfill.image.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzfill-common.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzfill-common.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzlibraryfill.image.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzlibraryfill.image.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbbreakable.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdfcol\pdfcol.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdfcol\pdfcol.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbhooks.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbtheorems.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbfitting.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistingsutf8.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistings.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistingscore.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbprocessing.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listingsutf8\listingsutf8.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\listingsutf8\listingsutf8.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbexternal.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbmagazine.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbvignette.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+INPUT ../../common/preamble.tex
+INPUT ../../common/preamble.tex
+INPUT ../../common/preamble.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/newpxmath.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/newpxmath.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/kastrup/binhex.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/kastrup/binhex.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/kastrup/binhex.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/kastrup/binhex.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/kastrup/binhex.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/oberdiek/centernot.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/oberdiek/centernot.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xfrac/xfrac.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xfrac/xfrac.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cancel/cancel.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cancel/cancel.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/theoremref/theoremref.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/theoremref/theoremref.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/environ/environ.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/environ/environ.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdfcol/pdfcol.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdfcol/pdfcol.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 OUTPUT ANME.pdf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbposter.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikz-cd\tikz-cd.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikz-cd\tikz-cd.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikz-cd\tikzlibrarycd.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikz-cd\tikzlibrarycd.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymatrix.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymatrix.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryquotes.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryquotes.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\algorithm2e\algorithm2e.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\algorithm2e\algorithm2e.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\xspace.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tools\xspace.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\relsize\relsize.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\relsize\relsize.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\xifthen\xifthen.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\xifthen\xifthen.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\transparent\transparent.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\transparent\transparent.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\transparent\transparent-nometadata.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\transparent\transparent-nometadata.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\anyfontsize\anyfontsize.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\anyfontsize\anyfontsize.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\mathpazo.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\mathpazo.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\eulervm.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\eulervm.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikzsymbols\tikzsymbols.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\tikzsymbols\tikzsymbols.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytrees.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytrees.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf-blur\tikzlibraryshadows.blur.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pgf-blur\tikzlibraryshadows.blur.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshadows.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshadows.code.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titletoc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titletoc.sty
-INPUT ..\..\common\macros.tex
-INPUT ..\..\common\macros.tex
-INPUT ..\..\common\macros.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT ..\..\common\letterfonts.tex
-INPUT ..\..\common\letterfonts.tex
-INPUT ..\..\common\letterfonts.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT .\ANME.aux
-INPUT .\ANME.aux
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikz-cd/tikz-cd.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikz-cd/tikz-cd.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/tikz-cd/tikzlibrarycd.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/tikz-cd/tikzlibrarycd.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/import/import.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xifthen/xifthen.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xifthen/xifthen.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pppdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pppdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pppdftex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/transparent/transparent.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/transparent/transparent.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/mathpazo.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/mathpazo.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/eulervm.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/eulervm.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytrees.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytrees.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf-blur/tikzlibraryshadows.blur.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pgf-blur/tikzlibraryshadows.blur.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titletoc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titletoc.sty
+INPUT ../../common/macros.tex
+INPUT ../../common/macros.tex
+INPUT ../../common/macros.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT ../../common/letterfonts.tex
+INPUT ../../common/letterfonts.tex
+INPUT ../../common/letterfonts.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1pplj.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1pplj.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1pplj.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+INPUT ./ANME.aux
+INPUT ./ANME.aux
 INPUT ANME.aux
-INPUT .\chapters\1.aux
-INPUT .\chapters\1.aux
-INPUT chapters\1.aux
-INPUT .\chapters\2.aux
-INPUT .\chapters\2.aux
-INPUT chapters\2.aux
-INPUT .\chapters\3.aux
-INPUT .\chapters\3.aux
-INPUT chapters\3.aux
-INPUT .\chapters\4.aux
-INPUT .\chapters\4.aux
-INPUT chapters\4.aux
-INPUT .\chapters\5.aux
-INPUT .\chapters\5.aux
-INPUT chapters\5.aux
-INPUT .\chapters\repo.aux
-INPUT .\chapters\repo.aux
-INPUT chapters\repo.aux
+INPUT ./chapters/1.aux
+INPUT ./chapters/1.aux
+INPUT chapters/1.aux
+INPUT ./chapters/2.aux
+INPUT ./chapters/2.aux
+INPUT chapters/2.aux
+INPUT ./chapters/3.aux
+INPUT ./chapters/3.aux
+INPUT chapters/3.aux
+INPUT ./chapters/4.aux
+INPUT ./chapters/4.aux
+INPUT chapters/4.aux
+INPUT ./chapters/5.aux
+INPUT ./chapters/5.aux
+INPUT chapters/5.aux
+INPUT ./chapters/repo.aux
+INPUT ./chapters/repo.aux
+INPUT chapters/repo.aux
 OUTPUT ANME.aux
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxexa.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxexa.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxexa.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\lmsnpxsy.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\lmsnpxsy.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\lmsnpxsy.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\lmxnpxexx.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\lmxnpxexx.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\lmxnpxexx.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeur.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeur.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeur.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeus.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeus.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeus.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeuex.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeuex.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\eulervm\uzeuex.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeuex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeuex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeuex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxmia.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxmia.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxmia.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxsym.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxsym.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxsym.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxsyc.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxsyc.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\newpx\unpxsyc.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1zplm.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1zplm.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1zplm.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
-INPUT .\ANME.toc
-INPUT .\ANME.toc
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/omlnpxmi.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/omlnpxmi.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/omlnpxmi.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxexa.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxexa.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxexa.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeur.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeur.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeur.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeurm10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeurm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeurm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeus.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeus.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeus.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeusm10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeusm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeusm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeuex.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeuex.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/eulervm/uzeuex.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxmia.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxmia.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxmia.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplmia.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplmia.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplmia.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxsym.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxsym.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxsym.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplsym.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplsym.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplsym.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxsyc.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxsyc.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newpx/unpxsyc.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplsyc.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplsyc.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplsyc.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplexa.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm
+INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrc9o.tfm
+INPUT ./ANME.toc
+INPUT ./ANME.toc
 INPUT ANME.toc
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrc9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrc9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
 OUTPUT ANME.toc
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT .\chapters\1.tex
-INPUT .\chapters\1.tex
-OUTPUT chapters\1.aux
-INPUT .\chapters\1.tex
-INPUT .\chapters\1.tex
-INPUT chapters\1.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
-INPUT .\chapters\2.tex
-INPUT .\chapters\2.tex
-OUTPUT chapters\2.aux
-INPUT .\chapters\2.tex
-INPUT .\chapters\2.tex
-INPUT chapters\2.tex
-INPUT .\chapters\3.tex
-INPUT .\chapters\3.tex
-OUTPUT chapters\3.aux
-INPUT .\chapters\3.tex
-INPUT .\chapters\3.tex
-INPUT chapters\3.tex
-INPUT .\chapters\4.tex
-INPUT .\chapters\4.tex
-OUTPUT chapters\4.aux
-INPUT .\chapters\4.tex
-INPUT .\chapters\4.tex
-INPUT chapters\4.tex
-INPUT .\chapters\5.tex
-INPUT .\chapters\5.tex
-OUTPUT chapters\5.aux
-INPUT .\chapters\5.tex
-INPUT .\chapters\5.tex
-INPUT chapters\5.tex
-INPUT .\chapters\repo.tex
-INPUT .\chapters\repo.tex
-OUTPUT chapters\repo.aux
-INPUT .\chapters\repo.tex
-INPUT .\chapters\repo.tex
-INPUT chapters\repo.tex
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeurb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\eulervm\zeusb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbmia.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbsyc.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplbexa.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmb7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmb7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\zplmb7t.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ufplmbb.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ufplmbb.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ufplmbb.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbi9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeusm10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurm10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurm7.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeusm7.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeuex10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\euex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplbi9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmbi.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbi8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbij8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\newpx\zplsym.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeusb10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\newpx\zplsym.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurb10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurb10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeuex10.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\euex10.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurm7.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplj.fd
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9c.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9o.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\public\eulervm\zeurb7.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurb7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9o.vf
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrij8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm
+INPUT ./chapters/1.tex
+INPUT ./chapters/1.tex
+OUTPUT chapters/1.aux
+INPUT ./chapters/1.tex
+INPUT ./chapters/1.tex
+INPUT chapters/1.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+INPUT ./chapters/2.tex
+INPUT ./chapters/2.tex
+OUTPUT chapters/2.aux
+INPUT ./chapters/2.tex
+INPUT ./chapters/2.tex
+INPUT chapters/2.tex
+INPUT ./chapters/3.tex
+INPUT ./chapters/3.tex
+OUTPUT chapters/3.aux
+INPUT ./chapters/3.tex
+INPUT ./chapters/3.tex
+INPUT chapters/3.tex
+INPUT ./chapters/4.tex
+INPUT ./chapters/4.tex
+OUTPUT chapters/4.aux
+INPUT ./chapters/4.tex
+INPUT ./chapters/4.tex
+INPUT chapters/4.tex
+INPUT ./chapters/5.tex
+INPUT ./chapters/5.tex
+OUTPUT chapters/5.aux
+INPUT ./chapters/5.tex
+INPUT ./chapters/5.tex
+INPUT chapters/5.tex
+INPUT ./chapters/repo.tex
+INPUT ./chapters/repo.tex
+OUTPUT chapters/repo.aux
+INPUT ./chapters/repo.tex
+INPUT ./chapters/repo.tex
+INPUT chapters/repo.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeurb10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeurb7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeurb7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeusb10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeusb7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/eulervm/zeusb7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbmia.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbmia.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbmia.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbsym.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbsym.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbsym.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbsyc.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbsyc.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbsyc.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbexa.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbexa.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newpx/zplbexa.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ufplmbb.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ufplmbb.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ufplmbb.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmbb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmbb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmbb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbi9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeusm10.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eusm10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeurm10.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeurm7.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeusm7.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eusm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeuex10.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/euex10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplbi9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmbi.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbi8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbij8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/newpx/zplsym.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeusb10.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eufb10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eusb10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/newpx/zplsym.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeurb10.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeuex10.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/euex10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeurm7.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9c.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/eulervm/zeurb7.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr9c.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplri9o.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrij8r.tfm
 INPUT ANME.aux
-INPUT .\chapters\1.aux
-INPUT .\chapters\1.aux
-INPUT chapters\1.aux
-INPUT .\chapters\2.aux
-INPUT .\chapters\2.aux
-INPUT chapters\2.aux
-INPUT .\chapters\3.aux
-INPUT .\chapters\3.aux
-INPUT chapters\3.aux
-INPUT .\chapters\4.aux
-INPUT .\chapters\4.aux
-INPUT chapters\4.aux
-INPUT .\chapters\5.aux
-INPUT .\chapters\5.aux
-INPUT chapters\5.aux
-INPUT .\chapters\repo.aux
-INPUT .\chapters\repo.aux
-INPUT chapters\repo.aux
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbsy10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbsy10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\euex10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\euex10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufb10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufb10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurb10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurb10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurb7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurb7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurm7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eurm7.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eusm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eusm10.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplbj8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplbj8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\mathpazo\fplmbb.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\mathpazo\fplmbb.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplrc8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplrc8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplrij8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\fpl\fplrij8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsym.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txsym.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplbi8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplbi8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
-INPUT C:\Users\Lenovo T14\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
+INPUT ./chapters/1.aux
+INPUT ./chapters/1.aux
+INPUT chapters/1.aux
+INPUT ./chapters/2.aux
+INPUT ./chapters/2.aux
+INPUT chapters/2.aux
+INPUT ./chapters/3.aux
+INPUT ./chapters/3.aux
+INPUT chapters/3.aux
+INPUT ./chapters/4.aux
+INPUT ./chapters/4.aux
+INPUT chapters/4.aux
+INPUT ./chapters/5.aux
+INPUT ./chapters/5.aux
+INPUT chapters/5.aux
+INPUT ./chapters/repo.aux
+INPUT ./chapters/repo.aux
+INPUT chapters/repo.aux
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/euex10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eufb10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurb7.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsym.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb

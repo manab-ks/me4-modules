@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/cerebra/ME4/me4-modules/MECH70003-AET/AET-TeX/AET.tex
-(/Users/cerebra/ME4/me4-modules/MECH70003-AET/AET-TeX/AET.tex
+**/Users/cerebra/ME4/me4-modules/ELEC70066-OPT/OPT-TeX/OPT.tex
+(/Users/cerebra/ME4/me4-modules/ELEC70066-OPT/OPT-TeX/OPT.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -1117,8 +1117,8 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 8.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
-) (./AET.aux (./chapters/1.aux) (./chapters/2.aux) (./chapters/3.aux) (./chapters/repo.aux))
-\openout1 = `AET.aux'.
+) (./OPT.aux (./chapters/1.aux) (./chapters/2.aux) (./chapters/3.aux) (./chapters/4.aux) (./chapters/5.aux) (./chapters/6.aux) (./chapters/7.aux) (./chapters/8.aux) (./chapters/9.aux) (./chapters/10.aux) (./chapters/11.aux) (./chapters/12.aux) (./chapters/repo.aux))
+\openout1 = `OPT.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 8.
 LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 8.
@@ -1295,13 +1295,22 @@ LaTeX Font Warning: Font shape `OT1/pplj/b/sc' undefined
 
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-(./AET.toc
+(./OPT.toc
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 )
 \tf@toc=\write5
-\openout5 = `AET.toc'.
+\openout5 = `OPT.toc'.
 
 LaTeX Font Info:    Font shape `OT1/pplj/m/sl' in size <10> not available
 (Font)              Font shape `OT1/pplj/m/it' tried instead on input line 17.
@@ -1344,6 +1353,96 @@ Chapter 3.
 
 
 ]
+\openout2 = `chapters/4.aux'.
+
+ (./chapters/4.tex
+Chapter 4.
+) [4
+
+
+
+
+]
+\openout2 = `chapters/5.aux'.
+
+ (./chapters/5.tex
+Chapter 5.
+) [5
+
+
+
+
+]
+\openout2 = `chapters/6.aux'.
+
+ (./chapters/6.tex
+Chapter 6.
+) [6
+
+
+
+
+]
+\openout2 = `chapters/7.aux'.
+
+ (./chapters/7.tex
+Chapter 7.
+) [7
+
+
+
+
+]
+\openout2 = `chapters/8.aux'.
+
+ (./chapters/8.tex
+Chapter 8.
+) [8
+
+
+
+
+]
+\openout2 = `chapters/9.aux'.
+
+ (./chapters/9.tex
+Chapter 9.
+) [9
+
+
+
+
+]
+\openout2 = `chapters/10.aux'.
+
+ (./chapters/10.tex
+Chapter 10.
+) [10
+
+
+
+
+]
+\openout2 = `chapters/11.aux'.
+
+ (./chapters/11.tex
+Chapter 11.
+) [11
+
+
+
+
+]
+\openout2 = `chapters/12.aux'.
+
+ (./chapters/12.tex
+Chapter 12.
+) [12
+
+
+
+
+]
 \openout2 = `chapters/repo.aux'.
 
  (./chapters/repo.tex
@@ -1364,7 +1463,7 @@ LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 3
 File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 )
 Missing character: There is no Ð in font zeuex10!
-[4
+[13
 
 
 
@@ -1374,7 +1473,7 @@ Missing character: There is no Ð in font zeuex10!
 
 Missing character: There is no ® in font zeusm10!
 Missing character: There is no ® in font zeusm10!
-[5]
+[14]
 Missing character: There is no Í in font zeuex10!
 Missing character: There is no Í in font zeuex10!
 Missing character: There is no Í in font zeuex10!
@@ -1403,7 +1502,7 @@ LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 6
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
 Missing character: There is no Í in font zeuex10!
-) [6] [7] (./AET.aux (./chapters/1.aux) (./chapters/2.aux) (./chapters/3.aux) (./chapters/repo.aux))
+) [15] [16] (./OPT.aux (./chapters/1.aux) (./chapters/2.aux) (./chapters/3.aux) (./chapters/4.aux) (./chapters/5.aux) (./chapters/6.aux) (./chapters/7.aux) (./chapters/8.aux) (./chapters/9.aux) (./chapters/10.aux) (./chapters/11.aux) (./chapters/12.aux) (./chapters/repo.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1414,18 +1513,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38963 strings out of 474116
- 781616 string characters out of 5743682
- 1955187 words of memory out of 5000000
- 60460 multiletter control sequences out of 15000+600000
- 614236 words of font info for 184 fonts, out of 8000000 for 9000
+ 39234 strings out of 474116
+ 787981 string characters out of 5743682
+ 1954187 words of memory out of 5000000
+ 60656 multiletter control sequences out of 15000+600000
+ 611915 words of font info for 180 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,102p,593b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/euex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eufb10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurb7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsym.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on AET.pdf (9 pages, 240996 bytes).
+Output written on OPT.pdf (18 pages, 245184 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 500000)
- 243 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 395 PDF objects out of 1000 (max. 8388607)
+ 279 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 291 words of extra memory for PDF output out of 10000 (max. 10000000)
 
